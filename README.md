@@ -1,2 +1,2 @@
-# textlint-rule-preset-icsmedia
-ics.media で利用されているテキストリントのルールです
+# textlint-rule-preset-uniba
+UNIBA INC で利用されているテキストリントのルールです
