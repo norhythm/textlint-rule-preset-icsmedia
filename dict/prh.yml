@@ -28,5 +28,8 @@ imports:
   # 技術用語
   - ./prh_web_technology.yml
 
+  # UNIBA
+  - ./prh_uniba.yml
+
 # ルールは以下を参照。
 # https://github.com/vvakame/prh/tree/master/misc

@@ -1,0 +1,9 @@
+meta:
+  - title: UNIBA INC./ユニバ株式会社の表現ルール
+  - memo: 手動更新で管理してます
+rules:
+  - expected: UNIBA
+    patterns:
+      - uniba
+      - Uniba
+    prh: 社名
