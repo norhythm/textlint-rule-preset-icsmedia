@@ -1,2 +1,2 @@
 # textlint-rule-preset-uniba
-UNIBA INC で利用されているテキストリントのルールです
+UNIBA INC. で利用されているテキストリントのルールです
