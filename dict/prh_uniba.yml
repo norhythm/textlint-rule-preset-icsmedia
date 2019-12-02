@@ -6,4 +6,29 @@ rules:
     patterns:
       - uniba
       - Uniba
-    prh: 社名
+    prh: （固有名詞）
+  - expected: UNIBA INC.
+    patterns:
+      - uniba inc
+      - Uniba Inc
+      - uniba inc.
+      - Uniba Inc.
+    prh: （固有名詞）
+  - expected: Maker Faire
+    patterns:
+      - maker faire
+      - Maker faire
+      - maker Faire
+    prh: （固有名詞）
+  - expected: Ars Electronica
+    patterns:
+      - ars electronica
+      - arselectronica
+      - Ars electronica
+      - ars Electronica
+    prh: （固有名詞）
+  - expected: アルスエレクトロニカ
+    patterns:
+      - アルス
+      - アルス・エレクトロニカ
+    prh: （固有名詞）

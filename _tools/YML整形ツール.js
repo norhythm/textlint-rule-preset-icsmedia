@@ -11,6 +11,7 @@ const yamlFiles = [
   './dict/prh_redundancy.yml',
   './dict/prh_web_technology.yml',
   './dict/prh_duplicate.yml',
+  './dict/prh_uniba.yml'
 ];
 
 yamlFiles.forEach(path => {
